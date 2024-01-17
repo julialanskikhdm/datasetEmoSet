@@ -1,0 +1,22 @@
+{
+  "label2idx": {
+    "amusement": 0,
+    "awe": 1,
+    "contentment": 2,
+    "excitement": 3,
+    "anger": 4,
+    "disgust": 5,
+    "fear": 6,
+    "sadness": 7
+  },
+  "idx2label": {
+    "0": "amusement",
+    "1": "awe",
+    "2": "contentment",
+    "3": "excitement",
+    "4": "anger",
+    "5": "disgust",
+    "6": "fear",
+    "7": "sadness"
+  }
+}
